@@ -23,7 +23,7 @@
 ## --ʟᴀᴛɪʜᴀɴ 3 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Latihan3.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
-  Contoh:
+ 
 
 ## --ʟᴀᴛɪʜᴀɴ 3_V2 --
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A1.png)
