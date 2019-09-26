@@ -31,6 +31,9 @@
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A3.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A.png)
 ## **Semua Program diatas akan berakhir seperti ini :**
+# Mengapa terjadi error ?
+_Semuanya error karena parameter nya tidak sama dengan yang ada di method.Dan yang di program terakhir error karena
+Ada bilangan desimal yang harusnya menggunakan double bukan int._
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
 
 
