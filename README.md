@@ -38,9 +38,9 @@
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L4.png)
 
 
-##--ʟᴀᴛɪʜᴀɴ 5 -- 
+## --ʟᴀᴛɪʜᴀɴ 5 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L5.png)
 
-## 【﻿－－－＝＝＝Ｃａｌｃｕｌａｔｏｒ＝＝＝－－－】
+## 【    ﻿－－－＝＝＝Ｃａｌｃｕｌａｔｏｒ＝＝＝－－－    】
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/CalculatorKu.png)
 
