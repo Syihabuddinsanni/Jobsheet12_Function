@@ -27,33 +27,11 @@
 
 
 # Latihan 4
-![Alt text]()
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L4.png)
 
 
 # Latihan 5
-![Alt text]()
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L5.png)
 
 
 
-# 
-! [Alt text]()
-
-
-#
-! [Alt text]()
-
-
-#
-! [Alt text]()
-
-
-#
-! [Alt text]()
-
-
-#
-! [Alt text]()
-
-
-#
-! [Alt text]()
