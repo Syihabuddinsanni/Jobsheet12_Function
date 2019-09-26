@@ -3,13 +3,13 @@
 
 # --==𝕄𝕖𝕥𝕙𝕠𝕕==--
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Method.png)
-> A :
+# [A] :
 _Adalah Method Type_
-> B :
+# B :
 _Method Name_
-> C :
+# C :
 _Code yang akan ditampilkan_
-> D :
+# D :
 _Memanggil Fungsi_
 
 
