@@ -3,13 +3,13 @@
 
 # --==𝕄𝕖𝕥𝕙𝕠𝕕==--
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Method.png)
-# A :
+> A :
 _Adalah Method Type_
-# B :
+> B :
 _Method Name_
-# C :
+> C :
 _Code yang akan ditampilkan_
-# D :
+> D :
 _Memanggil Fungsi_
 
 
@@ -30,7 +30,7 @@ _Memanggil Fungsi_
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A2.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A3.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A.png)
-# Semua Program diatas akan berakhir seperti ini :
+# * Semua Program diatas akan berakhir seperti ini : *
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
 
 
