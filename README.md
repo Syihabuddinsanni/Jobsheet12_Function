@@ -4,7 +4,7 @@
 # --==𝕄𝕖𝕥𝕙𝕠𝕕==--
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Method.png)
 # *A* :
-<_Adalah Method Type_>
+>_Adalah Method Type_
 # *B* :
 _Method Name_
 # *C* :
