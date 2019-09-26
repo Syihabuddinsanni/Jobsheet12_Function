@@ -45,6 +45,6 @@ Ada bilangan desimal yang harusnya menggunakan double bukan int.
 ## --ʟᴀᴛɪʜᴀɴ 5 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L5.png)
 
-## 【    ﻿－－－＝＝＝Ｃａｌｃｕｌａｔｏｒ＝＝＝－－－    】
+## ---===𝓒𝓪𝓵𝓬𝓾𝓵𝓪𝓽𝓸𝓻===---
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/CalculatorKu.png)
 
