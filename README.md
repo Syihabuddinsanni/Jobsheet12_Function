@@ -35,7 +35,7 @@
 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
 # Mengapa terjadi error ?
-Semuanya error karena parameter nya tidak sama dengan yang ada di method.Dan yang di program terakhir error karena
+>Semuanya error karena parameter nya tidak sama dengan yang ada di method.Dan yang di program terakhir error karena
 Ada bilangan desimal yang harusnya menggunakan double bukan int.
 
 ## --ʟᴀᴛɪʜᴀɴ 4 -- 
