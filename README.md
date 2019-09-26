@@ -18,11 +18,12 @@
 
 
 # Latihan 3_v2
-![Alt text]()
-![Alt text]()
-![Alt text]()
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A1.png)
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A2.png)
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A3.png)
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A.png)
+# Semua Program diatas akan berakhir seperti ini :
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
 
 
 # Latihan 4
