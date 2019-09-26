@@ -33,5 +33,9 @@
 # Latihan 5
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L5.png)
 
+# Calculator
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/CalculatorKu.png)
+
+
 
 
