@@ -13,7 +13,7 @@
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L2.png)
 
 # Latihan 3
-![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Lat3.png)
+![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Latihan3.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Lat3_1.png)
 
 
