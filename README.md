@@ -13,19 +13,19 @@ _Code yang akan ditampilkan_
 _Memanggil Fungsi_
 
 
-# Latihan 1
+# --ʟᴀᴛɪʜᴀɴ 1 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Latihan.png)
 
 
-# Latihan 2
+# --ʟᴀᴛɪʜᴀɴ 2 --  
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L2.png)
 
-# Latihan 3
+# --ʟᴀᴛɪʜᴀɴ 3 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Latihan3.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
 
 
-# Latihan 3_v2
+# --ʟᴀᴛɪʜᴀɴ 3_V2 --
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A1.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A2.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A3.png)
