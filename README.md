@@ -4,13 +4,13 @@
 # --==𝕄𝕖𝕥𝕙𝕠𝕕==--
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Method.png)
 # A
-_Adalah Method Type
+_Adalah Method Type_
 # B
 _Method Name_
 # C 
 _Code yang akan ditampilkan_
 # D
-_Memanggil Fungsi
+_Memanggil Fungsi_
 
 
 # Latihan 1
