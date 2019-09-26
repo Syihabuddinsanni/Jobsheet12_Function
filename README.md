@@ -13,34 +13,34 @@
 >_Memanggil Fungsi_
 
 
-# --ʟᴀᴛɪʜᴀɴ 1 -- 
+## --ʟᴀᴛɪʜᴀɴ 1 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Latihan.png)
 
 
-# --ʟᴀᴛɪʜᴀɴ 2 --  
+## --ʟᴀᴛɪʜᴀɴ 2 --  
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L2.png)
 
-# --ʟᴀᴛɪʜᴀɴ 3 -- 
+## --ʟᴀᴛɪʜᴀɴ 3 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Latihan3.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
 
 
-# --ʟᴀᴛɪʜᴀɴ 3_V2 --
+## --ʟᴀᴛɪʜᴀɴ 3_V2 --
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A1.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A2.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A3.png)
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A.png)
-# **Semua Program diatas akan berakhir seperti ini :**
+## **Semua Program diatas akan berakhir seperti ini :**
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L3A_4.png)
 
 
-# Latihan 4
+## --ʟᴀᴛɪʜᴀɴ 4 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L4.png)
 
 
-# Latihan 5
+##--ʟᴀᴛɪʜᴀɴ 5 -- 
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/L5.png)
 
-# Calculator
+## 【﻿－－－＝＝＝Ｃａｌｃｕｌａｔｏｒ＝＝＝－－－】
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/CalculatorKu.png)
 
