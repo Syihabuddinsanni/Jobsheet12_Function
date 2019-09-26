@@ -8,9 +8,9 @@
 ###### *B* :
 >_Method Name_
 ###### *C* :
->_Code yang akan ditampilkan_
+>   _Code yang akan ditampilkan_
 ###### *D* :
->_Memanggil Fungsi_
+>   _Memanggil Fungsi_
 
 
 ## --ʟᴀᴛɪʜᴀɴ 1 -- 
