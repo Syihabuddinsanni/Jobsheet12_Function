@@ -3,13 +3,13 @@
 
 # --==𝕄𝕖𝕥𝕙𝕠𝕕==--
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/Method.png)
-# A
+# A :
 _Adalah Method Type_
-# B
+# B :
 _Method Name_
-# C 
+# C :
 _Code yang akan ditampilkan_
-# D
+# D :
 _Memanggil Fungsi_
 
 
@@ -43,25 +43,4 @@ _Memanggil Fungsi_
 
 # Calculator
 ![Alt text](https://github.com/Syihabuddinsanni/Jobsheet12_Function/blob/master/CalculatorKu.png)
-
-from Tkinter import *
-import Pmw
-root = Tk()
-root.option_readfile('optionDB2')
-root.title('Scrolled Text')
-Pmw.initialise()
-
-st = Pmw.ScrolledText(root, borderframe=1, labelpos=N,
-		label_text='Blackmail', usehullsize=1,
-		hull_width=400, hull_height=300,
-		text_padx=10, text_pady=10,
-		text_wrap='none', text_foreground='#000fff000', text_background='black')
-#text_foreground berguna untuk mengubah warna tampilan teks, kalau text_background berfungsi mengubah warna latar belakang teks
-
-st.importfile('blackmail.txt')
-st.pack(fill=BOTH, expand=1, padx=5, pady=5)
-
-root.mainloop()
-
-
 
